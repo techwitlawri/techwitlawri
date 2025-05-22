@@ -21,7 +21,7 @@ Currently focused on **web development with Flask and Django**, I enjoy creating
 
 ## 📫 Contact Me
 - Email: mihenetugeoffrey@gmail.com
-- LinkedIn: [Mmachi Ezeh](www.linkedin.com/in/mmachilawri)
+- LinkedIn: [Mmachi Ezeh](https://www.linkedin.com/in/mmachilawri/)
 
 
 ## 📊 GitHub Stats
