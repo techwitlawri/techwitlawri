@@ -13,8 +13,11 @@ Currently focused on **web development with Flask and Django**, I enjoy creating
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📌 Featured Projects
-- [TIDE-NOW-APP](https://github.com/techwitlawri/TIDE-NOW-APP): A web application providing real-time tide information.
-- [Expense-Tracker](https://github.com/techwitlawri/Expense-Tracker): A simple tool to track daily expenses.
+
+- [TIDE-NOW-APP](https://github.com/techwitlawri/TIDE-NOW-APP): 🌊 A Flask-based web application that provides real-time tide information using public APIs. Implemented CRUD operations, user authentication, and basic analytics.
+
+- [Expense-Tracker](https://github.com/techwitlawri/Expense-Tracker): 💸 A full-stack application to track daily expenses. Built with Flask, SQLite, and Bootstrap. Features include user login, expense categorization, and data visualization.
+
 
 ## 📫 Contact Me
 - Email: mihenetugeoffrey@gmail.com
@@ -23,5 +26,5 @@ Currently focused on **web development with Flask and Django**, I enjoy creating
 
 ## 📊 GitHub Stats
 
-![Mmachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techwitlawri&show_icons=true&theme=tokyonight)  
+![Mmachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=techwitlawri&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techwitlawri&layout=compact&theme=tokyonight)
